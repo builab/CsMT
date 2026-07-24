@@ -45,7 +45,7 @@ counts = df_valid['category'].value_counts().reindex(categories, fill_value=0)
 
 # 6. Plot the Pie Chart
 plt.figure(figsize=(8, 6))
-colors = ['#4C72B0', '#55A868', '#C44E52', '#8172B8']
+colors = ['#E69B00', '#55A868', '#C44E52', '#8172B8']
 
 plt.pie(
     counts, 
@@ -56,6 +56,10 @@ plt.pie(
     wedgeprops={'edgecolor': 'white', 'linewidth': 1.5}
 )
 
-plt.title('Distribution of Software Used per Row (With Forward Fill)', fontsize=14, fontweight='bold')
+plt.title('Distribution of Software Used for MT Reconstruction', fontsize=14, fontweight='bold')
 plt.tight_layout()
-plt.show()
+#plt.show()
+
+# Save the pie chart directly as a PDF file
+plt.savefig('csMT_software_pie_chart.pdf', format='pdf', bbox_inches='tight')
+plt.close()
