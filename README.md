@@ -43,34 +43,39 @@ The required software dependencies for this workflow are:
 
 ## Workflow Import & Set up
 
-For the full detailed explanation of Workflow features, refer to the [CryoSPARC Workflow Guide](docs/cryosparc_workflow_guide.md).
+For the full detailed explanation of Workflow features, refer to the [CryoSPARC Workflow Guide](https://guide.cryosparc.com/application-guide/workflows).
 
 ### Quick Setup
 
-1. **Clone the Repository:**
+1. **Clone the Repository:** 
+
    ```bash
-   git clone [https://github.com/builab/CsMT.git](https://github.com/builab/CsMT.git)
-   cd CsMT
+   git clone https://github.com/builab/CsMT.git
    ```
    
 2. Import Workflow into CryoSPARC:
 
-Open your CryoSPARC instance (v5.0.6).
+   In your CryoSPARC instance, Navigate to Workflow side bar panel.
+   Click Import to import the pre-configured workflow Json from CsMT
+   The csmt_13pf_v1.X.X now is appearing in your Workflow panel.
+   Now, for your MT restruction project, create a Project and a Workspace.
+   In that Workspace, click the workflow, then click Apply the CsMT workflow.
 
-Navigate to your target project and creation menu.
 
-Import the pre-configured workflow JSON file located in workflows/csmt_v1.0.8_workflow.json.
+3. The detail workflow
 
-The detail workflow
+   You can see the detailed workflow here.
 
-![CsMT Workflow Diagram](images/CsMT_workflow.png)
+   ![CsMT Workflow Diagram](images/CsMT_workflow.png)
 
 ## Video guideline
 
-To come
+   To come: 
+   Reference generating
+   Mask generations
 
 ## Citation
 
-Alagha. T., Arin, A., Vangos, N. et al. BioRxiv, 2026
+Tina Alagha, Asuva Arin, Nicolas Vangos, Helena Goodey-Parfitt,, Hai Nguyen Ngo, Nhat Nam, Dau, Minh Hoa Nguyen, Thibault Legal, Michael Cianfrocco, Khanh Huy Bui. BioRxiv, 2026
 
 
