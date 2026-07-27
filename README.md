@@ -49,29 +49,29 @@ For the full detailed explanation of Workflow features, refer to the [CryoSPARC 
    git clone https://github.com/builab/CsMT.git
    ```
    
-2. Import Workflow into CryoSPARC:
+2.  **Import Workflow into CryoSPARC:**
 
-   In your CryoSPARC instance, navigate to Workflow sidebar panel.
-   Click Import to import the pre-configured workflow Json from CsMT
-   The csmt_13pf_v1.X.X is now appearing in your Workflow panel.
-   Now, for your MT reconstruction project, create a Project and a Workspace.
-   In that Workspace, click the workflow, then click Apply the CsMT workflow.
+   * In your CryoSPARC instance, navigate to the **Workflow** sidebar panel.
+   * Click **Import** to load the pre-configured workflow JSON from **CsMT**.
+   * The `csmt_13pf_v1.X.X` workflow will now appear in your Workflow panel.
+   * For your microtubule reconstruction project, create a **Project** and a **Workspace**.
+   * Inside that Workspace, select the workflow and click **Apply** to run the CsMT workflow.
 
 
-3. The detailed workflow
+3.  **The detailed workflow**
 
-   You can see the detailed workflow here.
+   * You can see the detailed workflow here.
 
    ![CsMT Workflow Diagram](images/CsMT_workflow.png)
 
 ## Video guideline
 
-   To come: 
-   Reference generating
-   Mask generations
+   * To come: 
+   * Reference generating
+   * Mask generations
 
 ## Citation
 
-Tina Alagha, Asuva Arin, Nicolas Vangos, Helena Goodey-Parfitt, Hai Nguyen Ngo, Nhat Nam, Dau, Minh Hoa Nguyen, Thibault Legal, Michael Cianfrocco, Khanh Huy Bui. BioRxiv, 2026
+* Tina Alagha, Asuva Arin, Nicolas Vangos, Helena Goodey-Parfitt, Hai Nguyen Ngo, Nhat Nam, Dau, Minh Hoa Nguyen, Thibault Legal, Michael Cianfrocco, Khanh Huy Bui. BioRxiv, 2026
 
 
