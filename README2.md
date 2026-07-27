@@ -26,7 +26,7 @@
 
 ## Overview
 
-**CsMT** is a CryoSPARC-workflow for cryo-EM reconstruction of microtubule, step-by-step processing guide and resource collection for cryo-EM structural analysis of microtubules using [CryoSPARC](https://cryosparc.com/). Microtubules present unique challenges for single-particle analysis — including their inherent helical symmetry, seam localisation, and decorated states — and this workflow addresses each step with tailored parameters and masks.
+**CsMT** is a minimal [CryoSPARC](https://cryosparc.com/)-workflow for cryo-EM reconstruction of decorated and undecorated microtubules developed by the Bui Lab & Cianfrocco Lab. Microtubules present unique challenges for single-particle analysis — including their inherent pseudo-helical symmetry, seam localisation, and decorated states. CsMT workflow uses a protofilament-based classification approach to solve MT structures.
 
 ---
 
@@ -37,13 +37,13 @@ The required software dependencies for this workflow are:
 | Software | Required Version | Purpose |
 |---|---|---|
 | **[CryoSPARC](https://cryosparc.com/)** | `v5.0.6` | Primary processing framework |
-| **[UCSF ChimeraX](https://www.rbvi.ucsf.edu/chimerax/)** | Recommended latest | Mask generation & map inspection |
+| **[UCSF ChimeraX](https://www.rbvi.ucsf.edu/chimerax/)** | Recommended latest | Ref/mask generation & map inspection |
 
 ---
 
 ## Workflow Import & Set up
 
-For the full detailed setup, refer to the [CryoSPARC Workflow Guide](docs/cryosparc_workflow_guide.md).
+For the full detailed explanation of Workflow features, refer to the [CryoSPARC Workflow Guide](docs/cryosparc_workflow_guide.md).
 
 ### Quick Setup
 
