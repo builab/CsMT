@@ -1,13 +1,9 @@
-# CsMT — CryoSPARC Microtubule Processing Workflow
+# CsMT — a minimal CryoSPARC workflow for cryo-EM reconstruction of microtubules.
 
 <p align="center">
   <img src="https://img.shields.io/badge/CryoSPARC-v5.0.6-blue?style=for-the-badge" alt="CryoSPARC 5.0.6"/>
   <img src="https://img.shields.io/badge/ChimeraX-Compatible-green?style=for-the-badge" alt="ChimeraX Compatible"/>
 <img src="https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge" alt="License: GPL v3"/>
-</p>
-
-<p align="center">
-  CsMT: a minimal CryoSPARC workflow for cryo-EM reconstruction of microtubule.
 </p>
 
 ---
@@ -55,14 +51,14 @@ For the full detailed explanation of Workflow features, refer to the [CryoSPARC 
    
 2. Import Workflow into CryoSPARC:
 
-   In your CryoSPARC instance, Navigate to Workflow side bar panel.
+   In your CryoSPARC instance, navigate to Workflow sidebar panel.
    Click Import to import the pre-configured workflow Json from CsMT
-   The csmt_13pf_v1.X.X now is appearing in your Workflow panel.
-   Now, for your MT restruction project, create a Project and a Workspace.
+   The csmt_13pf_v1.X.X is now appearing in your Workflow panel.
+   Now, for your MT reconstruction project, create a Project and a Workspace.
    In that Workspace, click the workflow, then click Apply the CsMT workflow.
 
 
-3. The detail workflow
+3. The detailed workflow
 
    You can see the detailed workflow here.
 
@@ -76,6 +72,6 @@ For the full detailed explanation of Workflow features, refer to the [CryoSPARC 
 
 ## Citation
 
-Tina Alagha, Asuva Arin, Nicolas Vangos, Helena Goodey-Parfitt,, Hai Nguyen Ngo, Nhat Nam, Dau, Minh Hoa Nguyen, Thibault Legal, Michael Cianfrocco, Khanh Huy Bui. BioRxiv, 2026
+Tina Alagha, Asuva Arin, Nicolas Vangos, Helena Goodey-Parfitt, Hai Nguyen Ngo, Nhat Nam, Dau, Minh Hoa Nguyen, Thibault Legal, Michael Cianfrocco, Khanh Huy Bui. BioRxiv, 2026
 
 
