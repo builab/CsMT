@@ -58,17 +58,15 @@ For the full detailed explanation of Workflow features, refer to the [CryoSPARC 
    * Inside that Workspace, select the workflow and click **Apply** to run the CsMT workflow.
 
 
-3.  **The summary workflow**
-
-   * You can see the detailed tutorial here. (To be added).
+3.  **The workflow**
 
    ![CsMT Workflow Diagram](images/CsMT_workflow.png)
 
-## Video guideline
+## Guideline
 
    * To come: 
-   * Making References
-   * Making Masks
+   * Youtube Tutorial of Making References
+   * Youtube Tutorial of Making Masks
 
 ## Citation
 
