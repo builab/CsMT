@@ -33,7 +33,7 @@ The required software dependencies for this workflow are:
 | Software | Tested Version | Purpose |
 |---|---|---|
 | **[CryoSPARC](https://cryosparc.com/)** | `v5.0.6` | Primary processing framework |
-| **[UCSF ChimeraX](https://www.rbvi.ucsf.edu/chimerax/)** | 1.7 | Ref/mask generation & map inspection |
+| **[UCSF ChimeraX](https://www.rbvi.ucsf.edu/chimerax/)** | `v1.7` | Ref/mask generation & map inspection |
 
 ---
 
