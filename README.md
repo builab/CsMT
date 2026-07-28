@@ -13,7 +13,7 @@
 - [Overview](#overview)
 - [Requirements](#requirements)
 - [Workflow Import & Set up](#workflow-import--set-up)
-- [Guides](#guides)
+- [Guideline](#guideline)
 - [Citation](#citation)
 
 ---
