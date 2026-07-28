@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/CryoSPARC-v5.0.6-blue?style=for-the-badge" alt="CryoSPARC 5.0.6"/>
-  <img src="https://img.shields.io/badge/ChimeraX-Compatible-green?style=for-the-badge" alt="ChimeraX Compatible"/>
+  <img src="https://img.shields.io/badge/ChimeraX-v1.7-green?style=for-the-badge" alt="ChimeraX 1.7"/>
 <img src="https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge" alt="License: GPL v3"/>
 </p>
 
