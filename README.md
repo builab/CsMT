@@ -39,8 +39,6 @@ The required software dependencies for this workflow are:
 
 For the full detailed explanation of Workflow features, refer to the [CryoSPARC Workflow Guide](https://guide.cryosparc.com/application-guide/workflows).
 
-### Quick Setup
-
 1. **Clone the Repository:** 
 
    ```bash
