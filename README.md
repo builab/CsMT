@@ -58,20 +58,20 @@ For the full detailed explanation of Workflow features, refer to the [CryoSPARC 
    * Inside that Workspace, select the workflow and click **Apply** to run the CsMT workflow.
 
 
-3.  **The detailed workflow**
+3.  **The summary workflow**
 
-   * You can see the detailed workflow here.
+   * You can see the detailed tutorial here. (To be added).
 
    ![CsMT Workflow Diagram](images/CsMT_workflow.png)
 
 ## Video guideline
 
    * To come: 
-   * Reference generating
-   * Mask generations
+   * Making References
+   * Making Masks
 
 ## Citation
 
-* Tina Alagha, Asuva Arin, Nicolas Vangos, Helena Goodey-Parfitt, Hai Nguyen Ngo, Nhat Nam, Dau, Minh Hoa Nguyen, Thibault Legal, Michael Cianfrocco, Khanh Huy Bui. BioRxiv, 2026
+*Tina Alagha, Asuva Arin, Nicolas Vangos, Helena Goodey-Parfitt, Hai Nguyen Ngo, Nhat Nam, Dau, Minh Hoa Nguyen, Thibault Legal, Michael Cianfrocco, Khanh Huy Bui. BioRxiv, 2026
 
 
