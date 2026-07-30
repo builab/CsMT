@@ -61,8 +61,8 @@ For the full detailed explanation of Workflow features, refer to the [CryoSPARC 
 ## Guideline
 
    * To come: 
-   * Youtube Tutorial of Making References
-   * Youtube Tutorial of Making Masks
+   * YouTube Tutorial of Making References
+   * YouTube tutorial of Making Masks
 
 ## Citation
 
