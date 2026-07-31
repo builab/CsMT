@@ -1,4 +1,4 @@
-# CsMT — a minimal CryoSPARC workflow for microtubule reconstruction
+# CsMT — a robust and streamlined CryoSPARC workflow for microtubule reconstruction
 
 <p align="center">
   <img src="https://img.shields.io/badge/CryoSPARC-v5.0.6-blue?style=for-the-badge" alt="CryoSPARC 5.0.6"/>
