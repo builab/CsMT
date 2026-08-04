@@ -76,9 +76,9 @@ For the full detailed explanation of Workflow features, refer to the [CryoSPARC 
 
 If you have any questions regarding the workflow, please put in the Issues in Github.
 
-   * To come: 
-   * YouTube Tutorial of Making References
-   * YouTube tutorial of Making Masks
+   * [CsMT Guideline](CsMT_Guideline_v0.1.pdf) 
+   * YouTube Tutorial of Making References (To come)
+   * YouTube tutorial of Making Masks (To come)
 
 ## Citation
 
