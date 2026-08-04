@@ -11,6 +11,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Release Notes](#release-notes)
 - [Requirements](#requirements)
 - [Workflow Import & Set up](#workflow-import--set-up)
 - [Guideline](#guideline)
@@ -22,6 +23,13 @@
 
 **CsMT** is a minimal [CryoSPARC](https://cryosparc.com/)-workflow for cryo-EM reconstruction of decorated and undecorated microtubules developed by the Bui Lab & Cianfrocco Lab. Microtubules present unique challenges for single-particle analysis — including their inherent pseudo-helical symmetry, seam localisation, and decorated states. CsMT workflow uses a protofilament-based classification approach to solve MT structures.
 
+---
+
+## Release Notes
+
+   * v1.0.9 Add Volume Tools for mask creation for Local Refinement after Symmetry Expansion
+   * v1.0.8 First version of 13-PF analysis
+   
 ---
 
 ## Requirements
