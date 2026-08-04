@@ -84,5 +84,5 @@ If you have any questions regarding the workflow, please put in the Issues in Gi
 
 If you use our workflow, please cite:
 
-   > Tina Alagha, Asuva Arin, Nicolas Vangos, Helena Goodey-Parfitt, Hai Nguyen Ngo, Nhat Nam, Dau, Minh Hoa Nguyen, Thibault Legal, Michael Cianfrocco, Khanh Huy Bui. (2026). CsMT: a minimal CryoSPARC workflow for cryo-EM reconstruction of microtubules. BioRxiv, 2026
+   > Tina Alagha, Asuva Arin, Nicolas Vangos, Helena Goodey-Parfitt, Hai Nguyen Ngo, Nhat Nam, Dau, Minh Hoa Nguyen, Thibault Legal, Michael Cianfrocco, Khanh Huy Bui. (2026). CsMT: a robust and streamlined CryoSPARC workflow for cryo-EM reconstruction of microtubules. bioRxiv 2026.07.31.741890; doi: https://doi.org/10.64898/2026.07.31.741890
 
