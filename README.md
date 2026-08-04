@@ -27,8 +27,13 @@
 
 ## Release Notes
 
+# Current version
+
    * csMT_13pf_v1.0.9: Add Volume Tools for mask creation for Local Refinement after Symmetry Expansion
    * csmt_13pf_1pf_v1_0_9_single_pf_refinement_branch: Branch for 1-PF refinement
+
+# Old version
+
    * csMT_13pf_v1.0.8: First version of undecorated 13-PF analysis
    
 ---
