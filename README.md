@@ -1,4 +1,4 @@
-# CsMT — a minimal CryoSPARC workflow for microtubule reconstruction
+# CsMT — a robust and streamlined CryoSPARC workflow for microtubule reconstruction
 
 <p align="center">
   <img src="https://img.shields.io/badge/CryoSPARC-v5.0.6-blue?style=for-the-badge" alt="CryoSPARC 5.0.6"/>
@@ -68,9 +68,11 @@ For the full detailed explanation of Workflow features, refer to the [CryoSPARC 
 
 ## Guideline
 
+If you have any questions regarding the workflow, please put in the Issues in Github.
+
    * To come: 
-   * Youtube Tutorial of Making References
-   * Youtube Tutorial of Making Masks
+   * YouTube Tutorial of Making References
+   * YouTube tutorial of Making Masks
 
 ## Citation
 
