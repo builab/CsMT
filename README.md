@@ -21,7 +21,7 @@
 
 ## Overview
 
-**CsMT** is a minimal [CryoSPARC](https://cryosparc.com/)-workflow for cryo-EM reconstruction of decorated and undecorated microtubules developed by the Bui Lab & Cianfrocco Lab. Microtubules present unique challenges for single-particle analysis — including their inherent pseudo-helical symmetry, seam localisation, and decorated states. CsMT workflow uses a protofilament-based classification approach to solve MT structures.
+**CsMT** is a minimal [CryoSPARC](https://cryosparc.com/)-workflow for cryo-EM reconstruction of decorated and undecorated microtubules developed by the [Bui Lab](https://huy-bui.lab.mcgill.ca/) & [Cianfrocco Lab](https://www.lsi.umich.edu/science/our-labs/cianfrocco-lab). Microtubules present unique challenges for single-particle analysis — including their inherent pseudo-helical symmetry, seam localisation, and decorated states. CsMT workflow uses a protofilament-based classification approach to solve MT structures.
 
 ---
 
@@ -51,7 +51,7 @@ The required software dependencies for this workflow are:
 
 ## Workflow Import & Set up
 
-For the full detailed explanation of Workflow features, refer to the [CryoSPARC Workflow Guide](https://guide.cryosparc.com/application-guide/workflows).
+For the full detailed explanation of Workflows features, refer to the [CryoSPARC Workflow Guide](https://guide.cryosparc.com/application-guide/workflows).
 
 1. **Clone the Repository:** 
 
@@ -61,7 +61,7 @@ For the full detailed explanation of Workflow features, refer to the [CryoSPARC 
    
 2.  **Import Workflow into CryoSPARC:**
 
-   * In your CryoSPARC instance, navigate to the **Workflow** sidebar panel.
+   * In your CryoSPARC instance, navigate to the **Workflows** sidebar panel.
    * Click **Import** to load the pre-configured workflow JSON from **CsMT**.
    * The `csmt_13pf_v1.X.X` workflow will now appear in your Workflow panel.
    * For your microtubule reconstruction project, create a **Project** and a **Workspace**.
