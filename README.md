@@ -78,7 +78,7 @@ If you have any questions regarding the workflow, please put in the Issues in Gi
 
    * [CsMT Guideline](CsMT_Guideline_v0.1.pdf) 
    * YouTube Tutorial of Making References (To come)
-   * YouTube tutorial of Making Masks (To come)
+   * [YouTube Tutorial for Making Masks]https://youtu.be/Y5GgpEdnlnY?si=Veby2uvOVdvbR8tr
 
 ## Citation
 
