@@ -77,12 +77,12 @@ For the full detailed explanation of Workflows features, refer to the [CryoSPARC
 If you have any questions regarding the workflow, please put in the Issues in Github.
 
    * [CsMT Guideline](CsMT_Guideline_v0.1.pdf) 
-   * YouTube Tutorial of Making References (To come)
+   * [YouTube Tutorial of Making References](https://youtu.be/zCVbQOH2n8c)
    * [YouTube Tutorial for Making Masks](https://youtu.be/Y5GgpEdnlnY?si=Veby2uvOVdvbR8tr)
 
 ## Citation
 
 If you use our workflow, please cite:
 
-   > Tina Alagha, Asuva Arin, Nicolas Vangos, Helena Goodey-Parfitt, Hai Nguyen Ngo, Nhat Nam, Dau, Minh Hoa Nguyen, Thibault Legal, Michael Cianfrocco, Khanh Huy Bui. (2026). CsMT: a robust and streamlined CryoSPARC workflow for cryo-EM reconstruction of microtubules. bioRxiv 2026.07.31.741890; doi: https://doi.org/10.64898/2026.07.31.741890
+   > Tina Alagha, Asuva Arin, Nicolas Vangos, Helena Goodey-Parfitt, Hai Nguyen Ngo, Nhat Nam, Dau, Minh Hoa Nguyen, Thibault Legal, Michael Cianfrocco, Khanh Huy Bui. (2026). CsMT: a robust and streamlined CryoSPARC workflow for cryo-EM reconstruction of microtubules. Acta Crys D82. https://doi.org/10.1107/S2059798326010144
 
